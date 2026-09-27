@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá! Eu sou Eduarda Costa 👋
 
-<!--
-**meduarda-costa/meduarda-costa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação  
+💻 Front-end Developer em formação
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou estudante de Sistemas de Informação e estou desenvolvendo minha formação na área de desenvolvimento web, com foco inicial em Front-end.
+
+Atualmente estou estudando e praticando:
+
+- HTML5
+- CSS3
+- JavaScript
+- Git e GitHub
+
+## Projetos
+
+### ONG Esperança
+
+Projeto web desenvolvido com HTML, CSS e JavaScript, com foco em acessibilidade, responsividade, validação de formulários e interatividade.
+
+### Ocean Village Resort
+
+Projeto de site institucional para um resort, desenvolvido para praticar estruturação de páginas, design responsivo e desenvolvimento Front-end.
+
+## Tecnologias
+
+HTML5 • CSS3 • JavaScript • Git • GitHub
